@@ -1,0 +1,12 @@
+/*#style.css*/
+h1 {
+	color: red;
+	font: 20px;
+	font-family: arial;
+	margin-left: 20px;
+  }
+
+  body {
+  	margin: 0;
+  	font-family: Helvetica;
+  }
